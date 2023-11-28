@@ -2,9 +2,7 @@ LARGE Sewable LEDs
 ========================
 These sewable LEDs are larger than the original Lilypad LEDs, to make them a little easier to see, manipulate, and sew. They are notched on the ground side to help with orientation. There is a through-hole and SMD version.
 
-<p align="left">
-  <img src="https://github.com/KitMcDermott/Large_Sewable_LED/edit/master/images/CroppedLEDPic.jpg" width="350" title="Large LED">
-</p>
+![Image 1](./images/CroppedLEDPic.jpg)
 
 These boards are based on the following design, the hookup guide should still apply: 
 
